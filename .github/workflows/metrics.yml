@@ -5,6 +5,9 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: write  # 자동 커밋을 위해 쓰기 권한 추가
+
 jobs:
   collect-metrics:
     runs-on: ubuntu-latest
@@ -17,7 +20,6 @@ jobs:
         with:
           python-version: '3.10'
 
-      # [추가] 실제 데이터를 생성하는 단계 (2주차 핵심)
       - name: Generate DORA JSON Report
         run: |
           echo "Generating DORA Metrics Report..."
@@ -33,13 +35,25 @@ jobs:
             "timestamp": "'$(date +'%Y-%m-%d %H:%M:%S')'"
           }' > dora-report.json
 
-      # [추가] 생성된 JSON 파일을 깃허브에 저장 (선택과제: Artifact 활용)
       - name: Upload DORA Artifact
         uses: actions/upload-artifact@v4
         with:
           name: dora-metrics-report
           path: dora-report.json
 
+      # [추가] README 자동 업데이트 스크립트 실행
+      - name: Update README with Metrics
+        run: python week2/update_readme.py
+
+      # [추가] 변경된 README를 봇이 직접 푸시
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add week2/README.md
+          # 변경사항이 있을 때만 커밋
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: update DORA metrics in README" && git push origin main)
+
       - name: Log Success
         run: |
-          echo "DORA Metrics for Mobility-Insight AI has been collected and saved as JSON."
+          echo "DORA Metrics has been collected, README updated, and pushed automatically."
