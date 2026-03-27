@@ -1,0 +1,13 @@
+{
+  "name": "mobility-insight-ci",
+  "version": "1.0.0",
+  "description": "Mobility-Insight AI - CI/CD practice",
+  "scripts": {
+    "test": "jest --ci",
+    "lint": "eslint src/ tests/ --ext .js"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "jest": "^29.7.0"
+  }
+}
