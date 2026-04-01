@@ -3,8 +3,15 @@ name: Build → Test → Deploy
 on:
   push:
     branches: [main]
+    paths:                        # src/ 변경 시에만 배포 파이프라인 실행
+      - 'src/**'
+      - 'package.json'
+      - 'requirements.txt'
   pull_request:
     branches: [main]
+    paths:
+      - 'src/**'
+      - 'package.json'
 
 jobs:
   # ── 1단계: Build ──────────────────────────────────────────
@@ -16,10 +23,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
+      - name: Set up Node.js (with npm cache)
         uses: actions/setup-node@v4
         with:
           node-version: 20
+
+      - name: Cache npm dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node20-${{ hashFiles('package.json') }}
+          restore-keys: ${{ runner.os }}-node20-
 
       - name: Install dependencies
         run: npm install
@@ -41,20 +55,27 @@ jobs:
           path: dist/
           retention-days: 7
 
-  # ── 2단계: Test (build 완료 후 실행) ──────────────────────
+  # ── 2단계: Test ───────────────────────────────────────────
   test:
     name: Test
     runs-on: ubuntu-latest
-    needs: build                  # build Job 성공 후에만 실행
+    needs: build
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
+      - name: Set up Node.js (with npm cache)
         uses: actions/setup-node@v4
         with:
           node-version: 20
+
+      - name: Cache npm dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node20-${{ hashFiles('package.json') }}
+          restore-keys: ${{ runner.os }}-node20-
 
       - name: Download build artifact
         uses: actions/download-artifact@v4
@@ -74,12 +95,12 @@ jobs:
       - name: Run tests (Jest)
         run: npm test
 
-  # ── 3단계: Deploy (test 완료 후 실행) ─────────────────────
+  # ── 3단계: Deploy (main 브랜치 push + src 변경 시에만) ────
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
-    needs: test                   # test Job 성공 후에만 실행
-    if: github.ref == 'refs/heads/main'   # main 브랜치 push 시에만 배포
+    needs: test
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
 
     steps:
       - name: Download build artifact
@@ -93,12 +114,13 @@ jobs:
           DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
         run: |
           echo "=== Deploying Mobility-Insight AI ==="
-          echo "Target: production"
-          echo "Artifact:"
+          echo "Branch : ${{ github.ref_name }}"
+          echo "Commit : ${{ github.sha }}"
+          echo "Trigger: ${{ github.event_name }}"
           ls dist/
           if [ -n "$DEPLOY_TOKEN" ]; then
-            echo "Auth token: configured (hidden)"
+            echo "Auth: token configured (masked)"
           else
             echo "Warning: DEPLOY_TOKEN secret not set"
           fi
-          echo "Deployment completed successfully at $(date)"
+          echo "Deployment completed at $(date)"

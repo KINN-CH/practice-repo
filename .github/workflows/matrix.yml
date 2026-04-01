@@ -3,34 +3,29 @@ name: Matrix Build
 on:
   push:
     branches: ["**"]
+    paths:
+      - 'src/**'
+      - 'tests/**'
+      - 'package.json'
+      - '.github/workflows/matrix.yml'
+      - '.github/workflows/reusable-test.yml'
+      - '.github/actions/setup-node-env/**'
   pull_request:
     branches: [main]
+    paths:
+      - 'src/**'
+      - 'tests/**'
+      - 'package.json'
 
 jobs:
-  build:
-    name: Node ${{ matrix.node-version }} / ${{ matrix.os }}
-    runs-on: ${{ matrix.os }}
-
+  # Reusable Workflow를 Matrix로 호출 — 3 OS × 3 Node = 9개 병렬 Job
+  matrix-test:
     strategy:
       matrix:
-        os: [ubuntu-latest, windows-latest]
-        node-version: [16, 18, 20]
-      fail-fast: false   # 하나 실패해도 나머지 조합은 계속 실행
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v4
-        with:
-          node-version: ${{ matrix.node-version }}
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Lint (ESLint)
-        run: npm run lint
-
-      - name: Test (Jest)
-        run: npm test
+        os: [ubuntu-latest, windows-latest, macos-latest]
+        node-version: ['18', '20', '22']
+      fail-fast: false
+    uses: KINN-CH/practice-repo/.github/workflows/reusable-test.yml@main
+    with:
+      os: ${{ matrix.os }}
+      node-version: ${{ matrix.node-version }}

@@ -1,0 +1,32 @@
+name: Reusable Node Test
+
+on:
+  workflow_call:
+    inputs:
+      os:
+        description: 'Runner OS'
+        required: false
+        type: string
+        default: 'ubuntu-latest'
+      node-version:
+        description: 'Node.js version'
+        required: false
+        type: string
+        default: '20'
+
+jobs:
+  test:
+    name: Node ${{ inputs.node-version }} / ${{ inputs.os }}
+    runs-on: ${{ inputs.os }}
+
+    steps:
+      - name: Setup Node Environment (with cache)
+        uses: KINN-CH/practice-repo/.github/actions/setup-node-env@main
+        with:
+          node-version: ${{ inputs.node-version }}
+
+      - name: Lint (ESLint)
+        run: npm run lint
+
+      - name: Test (Jest)
+        run: npm test
