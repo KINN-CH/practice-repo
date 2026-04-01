@@ -5,7 +5,91 @@
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -19,7 +103,91 @@
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -33,7 +201,91 @@
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -47,7 +299,91 @@
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -61,7 +397,91 @@
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | 매 push마다 불필요한 의존성 재설치 | **actions/cache** 로 npm · pip 캐싱 |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -75,7 +495,91 @@
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -89,7 +593,91 @@
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -103,7 +691,91 @@
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -117,6 +789,48 @@ Week 07의 `2 OS × 3 Node(16/18/20)` → `3 OS × 3 Node(18/20/22)` 로 확장
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -124,7 +838,91 @@ Week 07의 `2 OS × 3 Node(16/18/20)` → `3 OS × 3 Node(18/20/22)` 로 확장
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 ```yaml
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -138,7 +936,91 @@ strategy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
   matrix:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -152,7 +1034,91 @@ strategy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
     node-version: ['18', '20', '22']
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -166,6 +1132,48 @@ strategy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 ```
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -173,7 +1181,91 @@ strategy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -187,7 +1279,91 @@ strategy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | :---: | :---: | :---: | :---: |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -201,7 +1377,91 @@ strategy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | **Node 20** | ✓ | ✓ | ✓ |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -215,7 +1475,91 @@ strategy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -229,7 +1573,91 @@ strategy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -243,7 +1671,91 @@ strategy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -257,7 +1769,91 @@ strategy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -271,6 +1867,48 @@ strategy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -278,7 +1916,91 @@ strategy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 ```
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -292,7 +2014,91 @@ matrix.yml
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
   └─ uses: reusable-test.yml          ← Reusable Workflow (workflow_call)
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -306,7 +2112,91 @@ matrix.yml
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
             ├─ actions/checkout@v4
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -320,7 +2210,91 @@ matrix.yml
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
             ├─ actions/cache@v4 (npm)
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -334,6 +2308,48 @@ matrix.yml
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 ```
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -341,7 +2357,91 @@ matrix.yml
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -355,7 +2455,91 @@ matrix.yml
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -369,6 +2553,48 @@ matrix.yml
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -376,7 +2602,91 @@ matrix.yml
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 ```yaml
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -390,7 +2700,91 @@ inputs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
   node-version:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -404,7 +2798,91 @@ inputs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 runs:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -418,7 +2896,91 @@ runs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
   steps:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -432,6 +2994,48 @@ runs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
     - uses: actions/setup-node@v4
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -439,7 +3043,91 @@ runs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
       with:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -453,7 +3141,91 @@ runs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
     - uses: actions/cache@v4
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -467,7 +3239,91 @@ runs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
         path: ~/.npm
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -481,7 +3337,91 @@ runs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
     - run: npm install
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -495,6 +3435,48 @@ runs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 ```
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -502,7 +3484,91 @@ runs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -516,7 +3582,91 @@ runs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -530,7 +3680,91 @@ runs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -544,7 +3778,91 @@ runs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 on:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -558,7 +3876,91 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
     inputs:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -572,7 +3974,91 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
         type: string
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -586,7 +4072,91 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
       node-version:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -600,7 +4170,91 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
         default: '20'
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -614,7 +4268,91 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -628,6 +4366,48 @@ matrix.yml에서 호출:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -635,7 +4415,91 @@ matrix.yml에서 호출:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 ```yaml
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -649,7 +4513,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
   matrix-test:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -663,7 +4611,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
       matrix:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -677,7 +4709,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
         node-version: ['18', '20', '22']
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -691,7 +4807,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
     with:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -705,7 +4905,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
       node-version: ${{ matrix.node-version }}
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -719,7 +5003,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -733,7 +5101,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -747,7 +5199,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -761,7 +5297,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -775,7 +5395,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -789,7 +5493,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | :--- | :---: | :---: | :---: | :---: |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -803,7 +5591,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | Test (pytest) | 26s | 26s | 27s | — |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -817,7 +5689,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -831,6 +5787,48 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 > 의존성이 수십 개 이상인 실제 프로젝트에서는 `pip install` 시간(20~60s)이 캐시로 2~3s로 단축됩니다.
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -838,7 +5836,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -852,7 +5934,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 ```yaml
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -866,7 +6032,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
   with:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -880,7 +6130,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
     cache: 'pip'
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -894,6 +6228,48 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 ```
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -901,7 +6277,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -915,7 +6375,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -929,7 +6473,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -943,7 +6571,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -957,7 +6669,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | :--- | :---: | :---: | :---: | :---: |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -971,7 +6767,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | windows | 45s | 40s | 58s | **48s** |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -985,7 +6865,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -999,7 +6963,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1013,7 +7061,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | :--- | :---: | :---: | :---: | :---: | :---: |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1027,7 +7159,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | windows | 41s | 49s | 68s | **53s** | — |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1041,7 +7257,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1055,7 +7355,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 > - **ubuntu · macOS**: npm 캐시 HIT 확인, 평균 19% 단축
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1069,6 +7453,48 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 > - npm 패키지가 많은 실제 프로젝트(`node_modules` 수백 MB)에서는 30~60% 단축 효과
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -1076,7 +7502,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1090,7 +7600,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1104,7 +7698,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1118,7 +7796,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1132,7 +7894,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1146,7 +7992,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | `matrix.yml` | `src/**`, `tests/**`, `package.json` 변경 시 |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1160,6 +8090,48 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -1167,7 +8139,91 @@ jobs:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 ```yaml
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1181,7 +8237,91 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
   push:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1195,7 +8335,91 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
       - 'src/**'
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1209,7 +8433,91 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
       - 'requirements.txt'
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1223,7 +8531,91 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1237,6 +8629,48 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 → 불필요한 실행 **100% 차단**, GitHub Actions 분 절약
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -1244,7 +8678,91 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1258,7 +8776,91 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1272,7 +8874,91 @@ on:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 deploy:
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1286,7 +8972,91 @@ deploy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
   if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1300,7 +9070,91 @@ deploy:
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1314,7 +9168,91 @@ PR 빌드에서는 Build/Test만 실행, Deploy는 건너뜀
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1328,7 +9266,91 @@ PR 빌드에서는 Build/Test만 실행, Deploy는 건너뜀
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1342,6 +9364,48 @@ PR 빌드에서는 Build/Test만 실행, Deploy는 건너뜀
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -1349,7 +9413,91 @@ PR 빌드에서는 Build/Test만 실행, Deploy는 건너뜀
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 ```
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1363,7 +9511,91 @@ PR 빌드에서는 Build/Test만 실행, Deploy는 건너뜀
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
   actions/
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1377,7 +9609,91 @@ PR 빌드에서는 Build/Test만 실행, Deploy는 건너뜀
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
       action.yml          ← Composite Action (checkout+setup+cache+install)
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1391,7 +9707,91 @@ PR 빌드에서는 Build/Test만 실행, Deploy는 건너뜀
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
     ci.yml                ← Python lint/test + pip cache + paths 필터
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1405,7 +9805,91 @@ PR 빌드에서는 Build/Test만 실행, Deploy는 건너뜀
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
     reusable-test.yml     ← Reusable Workflow (workflow_call)
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1419,7 +9903,91 @@ PR 빌드에서는 Build/Test만 실행, Deploy는 건너뜀
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
     metrics.yml           ← DORA 메트릭 수집
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1433,7 +10001,91 @@ week8/
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
   README.md               ← 본 문서
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1447,7 +10099,91 @@ week8/
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1461,7 +10197,91 @@ week8/
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1475,7 +10295,91 @@ week8/
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1489,7 +10393,91 @@ week8/
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | :--- | :--- | :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1503,7 +10491,91 @@ week8/
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | **Reusable Workflow** | matrix.yml에 전체 steps 기술 | `uses: .yml@main` 한 줄 | 워크플로우 재사용 |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1517,7 +10589,91 @@ week8/
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | **pip 캐시** | 매번 pip install | 캐시 HIT 시 즉시 | 대규모 프로젝트 효과 큼 |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
@@ -1531,6 +10687,48 @@ week8/
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | **if 조건** | PR에서도 deploy 실행 | main push에서만 deploy | 의도치 않은 배포 방지 |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
@@ -1538,7 +10736,91 @@ week8/
 | Lead Time for Changes | 45m |
 | Change Failure Rate | 0% |
 | Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
 | **Matrix 확장** | 2 OS × 3 Node = 6 Jobs | 3 OS × 3 Node = 9 Jobs | macOS 커버리지 추가 |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| 지표 (Metric) | 수치 (Value) |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| :--- | :--- |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Deployment Frequency | 1.0/day |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Lead Time for Changes | 45m |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Change Failure Rate | 0% |
+| 지표 (Metric) | 수치 (Value) |
+| :--- | :--- |
+| Deployment Frequency | 1.0/day |
+| Lead Time for Changes | 45m |
+| Change Failure Rate | 0% |
+| Time to Restore Service | 12m |
+| Time to Restore Service | 12m |
 | 지표 (Metric) | 수치 (Value) |
 | :--- | :--- |
 | Deployment Frequency | 1.0/day |
