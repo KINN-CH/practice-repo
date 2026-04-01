@@ -1,4 +1,4 @@
-"""Simple calculator module for CI practice."""
+"""Simple calculator module for CI practice (week 08 cache benchmark)."""
 
 
 def add(a, b):
